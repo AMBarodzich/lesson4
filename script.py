@@ -1,8 +1,8 @@
 print(10)
-a+b
-a+case
-b+case
+a+b5
+a+case5
+b+case5
 c + b
 a + c
 
-version3
+version5
