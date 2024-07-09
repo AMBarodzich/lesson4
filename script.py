@@ -1,3 +1,3 @@
 belarus
-cuba
+echo "script" >> log.txt
 america
